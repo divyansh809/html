@@ -1,0 +1,16 @@
+h1{
+    color:white;
+}
+h2{
+    color:black;
+}
+
+#name{
+    color:black;
+}
+input:hover{
+    background-color: steelblue;
+}
+#color{
+    color:whitesmoke;
+}
